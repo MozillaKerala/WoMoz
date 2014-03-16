@@ -1,0 +1,13 @@
+{
+  "name": "Womoz",
+  "description": "Womoz website",
+  "launch_path": "/womoz/index.php",
+  "icons": {
+    "128": "/img/icon-128.png"
+  },
+  "developer": {
+    "name": "MozillaKerala",
+    "url": "http://mozillakerala.org"
+  },
+  "default_locale": "en"
+}
