@@ -1,7 +1,7 @@
 {
   "name": "Womoz",
   "description": "Womoz website",
-  "launch_path": "/womoz/index.php",
+  "launch_path": "/womoz/index.html",
   "icons": {
     "128": "/img/icon-128.png"
   },
